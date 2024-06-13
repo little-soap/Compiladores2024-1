@@ -19,4 +19,4 @@ Lucas Roberto da Silva - 760929
     # Verifique a saída no arquivo saida.txt criado na pasta raiz do projeto
 
     # Utilize o corretor automático para executar todos os testes
-    $ java -jar "corretor\corretor.jar" "build\exe.win-amd64-3.12\main.exe" gcc "temp" "casos-de-teste" "760929" t1
+    $ java -jar "corretor\corretor.jar" "py main.py" gcc "temp" "casos-de-teste" "760929" t1

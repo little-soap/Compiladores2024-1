@@ -16,7 +16,6 @@ NUM_REAL: NUM_INT '.' NUM_INT;
 IDENT: ([a-zA-Z])([a-zA-Z]|[0-9])*('_')?(([a-zA-Z]|[0-9])*);
 CADEIA: '"' ~('"'|'\r'|'\n')* '"';
 
-
 PARENTHESES: '('|')';
 SQUARE_BRACKETS: '[' | ']';
 REANGE: '..';
